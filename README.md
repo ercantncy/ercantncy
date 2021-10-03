@@ -5,7 +5,7 @@
 - 🥅 Goals: Learn more about Data Science and contribute to Open Source projects
 - ⚡ Fun fact: I love to read and play guitar 
 
-### Connect with me:
+### Reach out to me:
 
 
 [<img align="left" alt="ercantuncay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
