@@ -14,3 +14,7 @@
 
 
 <br />
+
+
+
+[linkedin]: https://linkedin.com/in/ercantuncay
