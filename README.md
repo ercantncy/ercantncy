@@ -17,4 +17,5 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ercantncy)](https://github.com/anuraghazra/github-readme-stats)
+
 [linkedin]: https://linkedin.com/in/ercantuncay
