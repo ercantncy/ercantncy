@@ -1,6 +1,6 @@
 ### Hi there, I'm Ercan 👋
 
-- 🌱 I’m currently learning everything �
+- 🌱 I currently work as Data Scientist
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Learn more about Data Science and contribute to Open Source projects
 - ⚡ Fun fact: I love to read and play guitar 
